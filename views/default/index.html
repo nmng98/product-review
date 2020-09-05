@@ -1,0 +1,21 @@
+{{extend 'layout.html'}}
+
+{{block head}}
+{{end}}
+
+<h2>Starred Products <i class="fa fa-star-o"></i></h2>
+<p></p>
+<div class="main_content">
+  {{for r in rows:}}
+  <div class="product">
+    <div class="title"><b>Product</b><br>{{=r.name}}</div>
+    <br>
+    <div class="content"><b>Price</b><br>${{=r.price}}</div>
+    <br>
+    <br>
+  </div>
+  {{pass}}
+
+</div>
+
+

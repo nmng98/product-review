@@ -1,0 +1,42 @@
+/* line 1, ../sass/_main.scss */
+.colorful {
+  color: #3c33bb;
+}
+div.main_content {
+  padding: 5px;
+}
+h2 {
+  text-align: center;
+
+}
+/* line 4, ../sass/_main.scss */
+div.main_content div.product {
+  border: 2px solid #26a69a;
+  background-color: rgb(231, 229, 229);
+  padding: 5px;
+  margin-bottom: 20px;
+}
+
+.title {
+  font-size: 20px;
+  text-align: center;
+}
+
+.content {
+  font-size: 20px;
+  text-align: center;
+}
+h3 {
+  font-size: 30px;
+}
+.gray {
+  color:gray;
+}
+
+.fa-star-o {
+  color:black;
+}
+.fa-star {
+  color:gold;
+}
+
