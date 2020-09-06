@@ -1,5 +1,5 @@
 # Product-Review
-A website that focuses on product reviews.
+A website that focuses on product reviews and ratings.
 
 ### Technologies Used
 * Python
